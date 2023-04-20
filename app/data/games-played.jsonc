@@ -1,0 +1,274 @@
+[
+  {
+    "matchday": 1,
+    "home": {
+      "team": {
+        "id": 1,
+        "name": "Malmö"
+      },
+      "goals": 1
+    },
+    "away": {
+      "team": {
+        "id": 2,
+        "name": "Kalmar FF"
+      },
+      "goals": 0
+    }
+  },
+  {
+    "matchday": 1,
+    "home": {
+      "team": {
+        "id": 3,
+        "name": "Norrköping"
+      },
+      "goals": 1
+    },
+    "away": {
+      "team": {
+        "id": 4,
+        "name": "Sirius"
+      },
+      "goals": 1
+    }
+  },
+  {
+    "matchday": 1,
+    "home": {
+      "team": {
+        "id": 5,
+        "name": "Halmstad"
+      },
+      "goals": 2
+    },
+    "away": {
+      "team": {
+        "id": 6,
+        "name": "AIK"
+      },
+      "goals": 1
+    }
+  },
+  {
+    "matchday": 1,
+    "home": {
+      "team": {
+        "id": 7,
+        "name": "Mjällby"
+      },
+      "goals": 2
+    },
+    "away": {
+      "team": {
+        "id": 8,
+        "name": "Varberg"
+      },
+      "goals": 2
+    }
+  },
+  {
+    "matchday": 1,
+    "home": {
+      "team": {
+        "id": 9,
+        "name": "Djurgården"
+      },
+      "goals": 3
+    },
+    "away": {
+      "team": {
+        "id": 10,
+        "name": "Brommapojkarna"
+      },
+      "goals": 1
+    }
+  },
+  {
+    "matchday": 1,
+    "home": {
+      "team": {
+        "id": 11,
+        "name": "Hammarby"
+      },
+      "goals": 3
+    },
+    "away": {
+      "team": {
+        "id": 12,
+        "name": "Degerfors"
+      },
+      "goals": 1
+    }
+  },
+  {
+    "matchday": 1,
+    "home": {
+      "team": {
+        "id": 0,
+        "name": "IFK Göteborg"
+      },
+      "goals": 0
+    },
+    "away": {
+      "team": {
+        "id": 0,
+        "name": "Värnamo"
+      },
+      "goals": 1
+    }
+  },
+  {
+    "matchday": 1,
+    "home": {
+      "team": {
+        "id": 0,
+        "name": "Elfsborg"
+      },
+      "goals": 0
+    },
+    "away": {
+      "team": {
+        "id": 0,
+        "name": "Häcken"
+      },
+      "goals": 2
+    }
+  },
+  {
+    "matchday": 2,
+    "home": {
+      "team": {
+        "id": 10,
+        "name": "Brommapojkarna"
+      },
+      "goals": 1
+    },
+    "away": {
+      "team": {
+        "id": 1,
+        "name": "Malmö"
+      },
+      "goals": 2
+    }
+  },
+  {
+    "matchday": 2,
+    "home": {
+      "team": {
+        "id": 0,
+        "name": "Häcken"
+      },
+      "goals": 3
+    },
+    "away": {
+      "team": {
+        "id": 11,
+        "name": "Hammarby"
+      },
+      "goals": 1
+    }
+  },
+  {
+    "matchday": 2,
+    "home": {
+      "team": {
+        "id": 2,
+        "name": "Kalmar FF"
+      },
+      "goals": 2
+    },
+    "away": {
+      "team": {
+        "id": 0,
+        "name": "IFK Göteborg"
+      },
+      "goals": 0
+    }
+  },
+  {
+    "matchday": 2,
+    "home": {
+      "team": {
+        "id": 6,
+        "name": "AIK"
+      },
+      "goals": 0
+    },
+    "away": {
+      "team": {
+        "id": 3,
+        "name": "Norrköping"
+      },
+      "goals": 3
+    }
+  },
+  {
+    "matchday": 2,
+    "home": {
+      "team": {
+        "id": 12,
+        "name": "Degerfors"
+      },
+      "goals": 3
+    },
+    "away": {
+      "team": {
+        "id": 5,
+        "name": "Halmstad"
+      },
+      "goals": 1
+    }
+  },
+  {
+    "matchday": 2,
+    "home": {
+      "team": {
+        "id": 4,
+        "name": "Sirius"
+      },
+      "goals": 0
+    },
+    "away": {
+      "team": {
+        "id": 9,
+        "name": "Djurgården"
+      },
+      "goals": 0
+    }
+  },
+  {
+    "matchday": 2,
+    "home": {
+      "team": {
+        "id": 0,
+        "name": "Värnamo"
+      },
+      "goals": 0
+    },
+    "away": {
+      "team": {
+        "id": 7,
+        "name": "Mjällby"
+      },
+      "goals": 1
+    }
+  },
+  {
+    "matchday": 2,
+    "home": {
+      "team": {
+        "id": 8,
+        "name": "Varberg"
+      },
+      "goals": 0
+    },
+    "away": {
+      "team": {
+        "id": 0,
+        "name": "Elfsborg"
+      },
+      "goals": 0
+    }
+  }
+]
