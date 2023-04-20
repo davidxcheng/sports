@@ -105,14 +105,14 @@
     "matchday": 1,
     "home": {
       "team": {
-        "id": 0,
+        "id": 13,
         "name": "IFK Göteborg"
       },
       "goals": 0
     },
     "away": {
       "team": {
-        "id": 0,
+        "id": 14,
         "name": "Värnamo"
       },
       "goals": 1
@@ -122,7 +122,7 @@
     "matchday": 1,
     "home": {
       "team": {
-        "id": 0,
+        "id": 15,
         "name": "Elfsborg"
       },
       "goals": 0
@@ -180,7 +180,7 @@
     },
     "away": {
       "team": {
-        "id": 0,
+        "id": 13,
         "name": "IFK Göteborg"
       },
       "goals": 0
@@ -241,7 +241,7 @@
     "matchday": 2,
     "home": {
       "team": {
-        "id": 0,
+        "id": 14,
         "name": "Värnamo"
       },
       "goals": 0
@@ -265,10 +265,146 @@
     },
     "away": {
       "team": {
-        "id": 0,
+        "id": 15,
         "name": "Elfsborg"
       },
       "goals": 0
+    }
+  },
+  {
+    "matchday": 3,
+    "home": {
+      "team": {
+        "id": 15,
+        "name": "Elfsborg"
+      },
+      "goals": 5
+    },
+    "away": {
+      "team": {
+        "id": 10,
+        "name": "Brommapojkarna"
+      },
+      "goals": 0
+    }
+  },
+  {
+    "matchday": 3,
+    "home": {
+      "team": {
+        "id": 6,
+        "name": "AIK"
+      },
+      "goals": 2
+    },
+    "away": {
+      "team": {
+        "id": 11,
+        "name": "Hammarby"
+      },
+      "goals": 0
+    }
+  },
+  {
+    "matchday": 3,
+    "home": {
+      "team": {
+        "id": 7,
+        "name": "Mjällby"
+      },
+      "goals": 2
+    },
+    "away": {
+      "team": {
+        "id": 12,
+        "name": "Degerfors"
+      },
+      "goals": 0
+    }
+  },
+  {
+    "matchday": 3,
+    "home": {
+      "team": {
+        "id": 8,
+        "name": "Varberg"
+      },
+      "goals": 1
+    },
+    "away": {
+      "team": {
+        "id": 4,
+        "name": "Sirius"
+      },
+      "goals": 1
+    }
+  },
+  {
+    "matchday": 3,
+    "home": {
+      "team": {
+        "id": 0,
+        "name": "Häcken"
+      },
+      "goals": 1
+    },
+    "away": {
+      "team": {
+        "id": 2,
+        "name": "Kalmar FF"
+      },
+      "goals": 3
+    }
+  },
+  {
+    "matchday": 3,
+    "home": {
+      "team": {
+        "id": 3,
+        "name": "Norrköping"
+      },
+      "goals": 2
+    },
+    "away": {
+      "team": {
+        "id": 14,
+        "name": "Värnamo"
+      },
+      "goals": 1
+    }
+  },
+  {
+    "matchday": 3,
+    "home": {
+      "team": {
+        "id": 5,
+        "name": "Halmstad"
+      },
+      "goals": 2
+    },
+    "away": {
+      "team": {
+        "id": 9,
+        "name": "Djurgården"
+      },
+      "goals": 0
+    }
+  },
+  {
+    "matchday": 3,
+    "home": {
+      "team": {
+        "id": 13,
+        "name": "IFK Göteborg"
+      },
+      "goals": 0
+    },
+    "away": {
+      "team": {
+        "id": 1,
+        "name": "Malmö"
+      },
+      "goals": 1
     }
   }
 ]
